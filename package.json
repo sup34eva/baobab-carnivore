@@ -1,9 +1,9 @@
 {
-  "name": "webstrat",
-  "version": "0.0.1",
+  "name": "baobab-carnivore",
+  "version": "0.6.4",
   "description": "Un blog, sans doute a propos de baobab carnivores.",
   "author": "Sup3Asc2",
-  "homepage": "http://webstrat.leops.me",
+  "homepage": "http://baobab-carnivore.leops.me",
   "keywords": [
     "baobab",
     "carnivore",

@@ -4,7 +4,7 @@ var path = require('path'),
 config = {
     // Production
     production: {
-        url: 'http://webstrat.leops.me',
+        url: 'http://baobab-carnivore.leops.me',
         mail: {},
         database: {
             client: 'pg',
